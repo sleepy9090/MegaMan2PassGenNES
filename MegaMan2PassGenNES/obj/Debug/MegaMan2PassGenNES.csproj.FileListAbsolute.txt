@@ -7,3 +7,13 @@ C:\workspace_sandbox\MegaMan2PassGenNES\MegaMan2PassGenNES\obj\Debug\MegaMan2Pas
 C:\workspace_sandbox\MegaMan2PassGenNES\MegaMan2PassGenNES\obj\Debug\MegaMan2PassGenNES.csproj.CoreCompileInputs.cache
 C:\workspace_sandbox\MegaMan2PassGenNES\MegaMan2PassGenNES\obj\Debug\MegaMan2PassGenNES.exe
 C:\workspace_sandbox\MegaMan2PassGenNES\MegaMan2PassGenNES\obj\Debug\MegaMan2PassGenNES.pdb
+C:\Users\Administrator\source\repos\MegaMan2PassGenNES\MegaMan2PassGenNES\bin\Debug\MegaMan2PassGenNES.exe.config
+C:\Users\Administrator\source\repos\MegaMan2PassGenNES\MegaMan2PassGenNES\bin\Debug\MegaMan2PassGenNES.exe
+C:\Users\Administrator\source\repos\MegaMan2PassGenNES\MegaMan2PassGenNES\bin\Debug\MegaMan2PassGenNES.pdb
+C:\Users\Administrator\source\repos\MegaMan2PassGenNES\MegaMan2PassGenNES\obj\Debug\MegaMan2PassGenNES.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\MegaMan2PassGenNES\MegaMan2PassGenNES\obj\Debug\MegaMan2PassGenNES.FormMegaMan2PassGenNes.resources
+C:\Users\Administrator\source\repos\MegaMan2PassGenNES\MegaMan2PassGenNES\obj\Debug\MegaMan2PassGenNES.Properties.Resources.resources
+C:\Users\Administrator\source\repos\MegaMan2PassGenNES\MegaMan2PassGenNES\obj\Debug\MegaMan2PassGenNES.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MegaMan2PassGenNES\MegaMan2PassGenNES\obj\Debug\MegaMan2PassGenNES.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MegaMan2PassGenNES\MegaMan2PassGenNES\obj\Debug\MegaMan2PassGenNES.exe
+C:\Users\Administrator\source\repos\MegaMan2PassGenNES\MegaMan2PassGenNES\obj\Debug\MegaMan2PassGenNES.pdb
